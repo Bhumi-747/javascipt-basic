@@ -13,3 +13,9 @@ console.log(newwString)
 const strim = "            bhumiiiiiiii        "
 console.log(strim)
 console.log(strim.trim())
+const url ="bhumikasagore@gmail.com"
+console.log(url.replace('re','g'))
+console.log(url.includes('bhumi'))
+
+const bhumi = 'guyswhatup'
+ console.log(bhumi.split("-"))
